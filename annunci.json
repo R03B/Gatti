@@ -1,0 +1,377 @@
+[
+    {
+        "id":1,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ginger_european_cat.jpg/800px-Ginger_european_cat.jpg",
+        "name": "Paolo",
+        "category": "Arancione",
+        "price": "120.12"
+    },
+
+    {
+        "id": 2,
+        "img":"https://wips.plug.it/cips/paginegialle.it/magazine/cms/2021/02/shutterstock_603117302.jpg?w=744&h=418&a=c",
+        "name": "Poppy",
+        "category": "Neri",
+        "price": "2000.32"
+    },
+
+    {
+        "id": 3,
+        "img":"https://wips.plug.it/cips/paginegialle.it/magazine/cms/2020/02/42116095_m-2.jpg?w=744&h=418&a=c",
+        "name": "Bella",
+        "category": "Grigi",
+        "price": "20.15"
+    },
+
+    {
+        "id": 4,
+        "img":"https://blog.feliway.com/hs-fs/hubfs/colore%20degli%20occhi%20dei%20gatti%20bianchi.png?width=2048&height=1075&name=colore%20degli%20occhi%20dei%20gatti%20bianchi.png",
+        "name": "Misty",
+        "category": "Bianchi",
+        "price": "30000.54"
+    },
+
+    {
+        "id": 5,
+        "img":"https://images.unsplash.com/photo-1610121172299-5f3c7c55bccd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2F0dG8lMjBtYXJyb25lfGVufDB8fDB8fHww&w=1000&q=80",
+        "name": "Molly",
+        "category": "Marroni",
+        "price": "10.42"
+    },
+
+    {
+        "id": 6,
+        "img":"https://media-assets.vanityfair.it/photos/6365371c142916e5bfd78e12/1:1/w_4421,h_4421,c_limit/GettyImages-1211812040.jpg",
+        "name": "Daisy",
+        "category": "Maculati",
+        "price":"400.64"
+    },
+
+    {
+        "id": 7,
+        "img":"https://www.greenme.it/wp-content/uploads/2022/12/leggenda_m_gatti.jpg",
+        "name": "Tilly",
+        "category": "Striati",
+        "price":"30.45"
+    },
+
+    {
+        "id": 8,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Manoel.jpg",
+        "name": "Luna",
+        "category": "Pallas",
+        "price": "15.64"
+    },
+
+    {
+        "id": 9,
+        "img":"https://amicidicasa.it/wp-content/uploads/2022/11/gatti-arancioni-scaled.jpg",
+        "name": "Lily",
+        "category": "Arancione",
+        "price": "230.42"
+    },
+
+    {
+        "id": 10,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Blackcat-Lilith.jpg/200px-Blackcat-Lilith.jpg",
+        "name": "Puma",
+        "category": "Neri",
+        "price": "25000.02"
+    },
+
+    {
+        "id": 11,
+        "img":"https://www.zooplus.it/magazine/wp-content/uploads/2022/12/nebelung-nel-prato-768x512.jpeg",
+        "name": "Pall",
+        "category": "Grigi",
+        "price": "30.12"
+    },
+
+    {
+        "id": 12,
+        "img":"https://www.robinsonpetshop.it/news/cms2017/wp-content/uploads/2018/02/gatto-bianco-occhi-azzurri.jpg",
+        "name": "Trinity",
+        "category": "Bianchi",
+        "price": "55000.54"
+    },
+
+    {
+        "id": 13,
+        "img":"https://www.amoreaquattrozampe.it/wp-content/uploads/2019/10/gatto-marrone-1280x720.jpg",
+        "name": "Sciarpa",
+        "category": "Marroni",
+        "price": "5.23"
+    },
+
+    {
+        "id": 14,
+        "img":"https://www.naturalcode.eu/wp-content/uploads/2020/09/curiosi-di-natura-bengal.jpg",
+        "name": "Lampione il gatto",
+        "category": "Maculati",
+        "price": "70.65"
+    },
+
+    {
+        "id": 15,
+        "img":"https://t2.ea.ltmcdn.com/it/razas/4/2/5/europeo_524_0_orig.jpg",
+        "name": "Gatto Criminale",
+        "category": "Striati",
+        "price": "2.45"
+    },
+
+    {
+        "id": 16,
+        "img":"https://felidaefund.org/media/cache/autosized/images/igallery/original/201-300/pallas-cat-1-250-384.webp",
+        "name": "Pallas Cat v2.0",
+        "category": "Pallas",
+        "price": "300.62"
+    },
+
+    {
+        "id": 17,
+        "img":"https://t1.ea.ltmcdn.com/it/posts/2/1/2/gatto_arancione_carattere_2212_1_600.jpg",
+        "name": "CatGPT",
+        "category": "Arancione",
+        "price": "120.65"
+    },
+
+    {
+        "id": 18,
+        "img":"https://citynews-ilpiacenza.stgy.ovh/~media/horizontal-mid/40752534416143/black-cat-375866_960_720-2.jpg",
+        "name": "Blender",
+        "category": "Neri",
+        "price": "12000.13"
+    },
+    
+    {
+        "id": 19,
+        "img":"https://cdn.wamiz.fr/article/images/Wamiz%20ITA/2021/british-shortair-grigio-con-collare.jpg",
+        "name": "Bender",
+        "category": "Grigi",
+        "price": "90.64"
+    },
+
+    {
+        "id": 21,
+        "img":"https://as1.ftcdn.net/v2/jpg/03/86/36/28/1000_F_386362821_3BWnhEsgNaA4SPcajSbQdZtKGtZtWYRP.jpg",
+        "name": "Frullatore",
+        "category": "Marroni",
+        "price": "22.04"
+    },
+
+    {
+        "id": 22,
+        "img":"https://www.zooplus.it/magazine/wp-content/uploads/2019/04/gatto-bengala.jpg",
+        "name": "Frullatrote",
+        "category": "Maculati",
+        "price": "600.63"
+    },
+
+    {
+        "id": 23,
+        "img":"https://t2.ea.ltmcdn.com/it/posts/1/8/1/bengala_3181_7_600.jpg",
+        "name": "Sono a metà e ho finito i nomi",
+        "category": "Striati",
+        "price": "30.43"
+    },
+
+    {
+        "id": 24,
+        "img":"https://media.wired.com/photos/59324c6352d99d6b984dd8ee/master/w_2560%2Cc_limit/Grumpy_Kitty....jpg",
+        "name": "Quak",
+        "category": "Pallas",
+        "price": "9.93"
+    },
+
+    {
+        "id": 25,
+        "img":"https://www.zoo-service.it/DM_2023/wp-content/uploads/2023/06/gatto-arancione.jpg",
+        "name": "DIO",
+        "category": "Arancione",
+        "price": "120.93"
+    },
+    
+    {
+        "id": 26,
+        "img":"https://media-assets.wired.it/photos/615f3881552959047b7a37a3/3:2/w_840,h_560,c_limit/1538478067_gatti_neri.jpg",
+        "name": "LOL",
+        "category": "Neri",
+        "price": "2560.42"
+    },
+
+    {
+        "id": 27,
+        "img":"https://www.giuntinipet.it/wp-content/uploads/2015/11/shutterstock_116104834.jpg",
+        "name": "Mazza da golf",
+        "category": "Grigi",
+        "price": "4320.43"
+    },
+
+    {
+        "id": 28,
+        "img":"https://t2.ea.ltmcdn.com/it/posts/0/4/6/gatto_bianco_lista_completa_delle_razze_2640_orig.jpg",
+        "name": "Posto augo",
+        "category": "Bianchi",
+        "price": "2200.63"
+    },
+
+    {
+        "id": 29,
+        "img":"https://images.pexels.com/photos/2756100/pexels-photo-2756100.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Decathlon",
+        "category": "Marroni",
+        "price": "55.55"
+    },
+
+    {
+        "id": 30,
+        "img":"https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=1200,fit=cover/article/main-picture/62c42dc344c67711603084.jpeg",
+        "name": "Comodino",
+        "category": "Maculati",
+        "price": "210.12"
+    },
+
+    {
+        "id": 31,
+        "img":"https://wips.plug.it/cips/paginegialle.it/magazine/cms/2021/02/shutterstock_1581865000.jpg",
+        "name": "Rastrello è un buon nome per un gatto striato",
+        "category": "Striati",
+        "price": "5.62"
+    },
+
+    {
+        "id": 32,
+        "img":"https://c02.purpledshub.com/uploads/sites/62/2022/09/Pallas-catkjekolGettyImages-175942214-5497ae3.jpg?fit=1024%2C1024",
+        "name": "Perchè sembra così arrabiato?",
+        "category": "Pallas",
+        "price": "1.91"
+    },
+
+    {
+        "id": 33,
+        "img":"https://www.365animali.com/wp-content/uploads/2022/03/le-3-caratteristiche-che-rendono-i-gatti-arancioni-cosi-unici.jpeg",
+        "name": "X",
+        "category": "Arancione",
+        "price": "1300.41"
+    },
+
+    {
+        "id": 34,
+        "img":"https://www.ciamanimali.com/stupload/stblog/1/31/46/3146large.jpg",
+        "name": "Juke",
+        "category": "Neri",
+        "price": "25420.40"
+    },
+
+    {
+        "id": 35,
+        "img":"https://i.pinimg.com/originals/c1/dd/64/c1dd64cb5b5ab08c12ed12b45b6519d2.gif",
+        "name": "Hornet",
+        "category": "Grigi",
+        "price": "11.54"
+    },
+
+    {
+        "id": 37,
+        "img":"https://www.spotsound.fr/12899-large_default/mascotte-grosso-gatto-gatto-marrone.jpg",
+        "name": "AHHAHAHAHAHAHA",
+        "category": "Marroni",
+        "price": "240.33"
+    },
+
+    {
+        "id": 38,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BengalCat_Stella.jpg/640px-BengalCat_Stella.jpg",
+        "name": "Sembrano tutti lo stesso gatto",
+        "category": "Maculati",
+        "price": "420.66"
+    },
+
+    {
+        "id": 39,
+        "img":"https://www.dogalize.com/wp-content/uploads/2017/02/cat-1534438_1280.jpg",
+        "name": "Sam",
+        "category": "Striati",
+        "price": "4.43"
+    },
+
+    {
+        "id": 40,
+        "img":"https://img.huffingtonpost.com/asset/63d54a0e200000380099e32b.jpeg?cache=tEHBRnLECb&ops=1778_1000",
+        "name": "blue screen of death",
+        "category": "Pallas",
+        "price": "150.65"
+    },
+
+    {
+        "id": 41,
+        "img":"https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/63765c6334804635341108.jpg",
+        "name": "Non c'è nessun gatto arancione come foto stock col watermark",
+        "category": "Arancione",
+        "price": "2340.37"
+    },
+
+    {
+        "id": 42,
+        "img":"https://www.zooplus.it/magazine/wp-content/uploads/2020/12/1-768x512.jpg",
+        "name": "Duster",
+        "category": "Neri",
+        "price": "13350.73"
+    },
+
+    {
+        "id": 43,
+        "img":"https://www.tuttogreen.it/wp-content/uploads/2017/01/shutterstock_323108843.jpg",
+        "name": "Canoa",
+        "category": "Grigi",
+        "price": "520.03"
+    },
+
+    {
+        "id": 44,
+        "img":"https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=900,fit=cover/article/main-picture/6124cb3c2f2f7403740390.jpg",
+        "name": "Cretina",
+        "category": "Bianchi",
+        "price": "20000.12"
+    },
+
+    {
+        "id": 45,
+        "img":"https://media.istockphoto.com/id/872398728/it/foto/razza-di-gatti-scottish-fold-colore-marrone-con-occhi-arancioni-sdraiati-sul-pavimento.jpg?s=1024x1024&w=is&k=20&c=ko_YsHQKgViDD5N8FNa0PvwxrpNgokUmeMQb1aDBDTY=",
+        "name": "Qwrty",
+        "category": "Marroni",
+        "price": "55.54"
+    },
+
+    {
+        "id": 46,
+        "img":"https://www.ilverdemondo.it/public/blog/thumbs/gatto-del-bengala-carattere-alimentazione-cure-it-000.jpg",
+        "name": "Leonardo",
+        "category": "Maculati",
+        "price": "280.54"
+    },
+
+    {
+        "id": 47,
+        "img":"https://www.petfun.it/wp-content/uploads/gatto-soriano.jpg",
+        "name": "Harald Bluetooth",
+        "category": "Striati",
+        "price": "12000.09"
+    },
+
+    {
+        "id": 48,
+        "img":"https://www.montagna.tv/wp-content/uploads/2023/02/pexels-radovan-zierik-3912757-1024x819.jpg",
+        "name": "Pietro",
+        "category": "Pallas",
+        "price": "0.99"
+    },
+
+    {
+        "id": 49,
+        "img":"https://preview.redd.it/r3lcc7gf64791.png?width=540&format=png&auto=webp&s=9d32ec46f884486fd59dfd01453bf5d07bf30d75",
+        "name": "Melvin",
+        "category": "MELVIN",
+        "price": "2.99"
+    }
+]

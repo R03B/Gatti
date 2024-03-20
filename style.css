@@ -1,0 +1,282 @@
+:root{
+    --b: #7C6354;
+    --r: rgb(44, 44, 44);
+    --g: beige;
+    --blu: rgb(56, 56, 56);
+    
+}
+
+/* colori */
+.text-r{
+    color: var(--r) !important;
+}
+.text-g{
+    color: var(--g) !important;
+}
+.text-blu{
+    color: var(--blu) !important;
+}
+.text-b{
+    color: var(--b) !important;
+}
+
+.bg-b{
+    background-color: var(--b) !important;
+}
+.bg-g{
+    background-color: var(--g) !important;
+}
+.bg-w{
+    background-color:white !important;
+}
+
+
+
+
+
+*{
+    font-family:'Young Serif','serif', sans-serif; 
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Roboto', sans-serif;
+}
+
+.cuscino{
+    display:inline-flex;
+    justify-content: end;
+    width: 70px;
+}
+
+.img-ico{
+    height: 50px;
+    border-radius: 50%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    transition: 1s;
+}
+.img-prodotti{
+    width: 80%;
+    border-radius: 50%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    animation: spin 0.5s linear infinite;
+    animation-play-state: paused; 
+}
+
+.img-prodotti:hover {
+    animation-play-state: running;
+}
+
+@keyframes spin {
+    100% {transform: rotate(1turn); }
+}
+
+.navbar{
+    /* transition: 0.5s; */
+    
+}
+.navbar-brand{
+    transition: 0.5s;
+}
+.nav-item{
+    transition: 0.5s;
+}
+
+.rotate{
+    transform: rotate(180deg);
+}
+
+.gatto{
+    background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ginger_european_cat.jpg/220px-Ginger_european_cat.jpg');
+}
+.loris{
+    background-image: url('./loris.jpg');
+    background-size:20%;
+}
+
+.stick{
+    position: fixed;
+}
+
+header{
+    background-image: linear-gradient(180deg, rgba(248, 248, 248, 0.829) 0%, rgba(134, 134, 134, 0.192) 100%) , url('https://picsum.photos/2000');
+    background-size: cover;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: bold !important;
+}
+
+.overflow{
+    overflow: hidden;
+}
+
+.card-img-top{
+    aspect-ratio: 1/1;
+    height: 350px;
+    object-fit: cover;
+}
+.swiper-img{
+    height: 500;
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit:cover;
+    border-radius: 40%;
+    margin-bottom: 10px;
+    border: 10px solid beige;
+}
+
+.swiper {
+    height: fit-content;
+    padding-left: 50px;
+}
+.swiper-wrapper {
+    height: fit-content; 
+}
+
+.btn{
+    border: 5px solid beige;
+    border-radius: 20px;
+}
+
+.border-card{
+    border: 10px solid beige;
+    border-radius: 20px;
+}
+
+.swiper-slide{
+    height: fit-content;
+    padding: 2%;
+    background-color: #7C6354;
+}
+
+i{
+    color: var(--g);
+}
+
+.swiper-button-prev::after{
+    content:'';
+}
+.swiper-button-next::after{
+    content:'';
+}
+
+.ico-black{
+    background-color: var(--b);
+    margin: 20px;
+    color: var(--g);
+    font-size: 50px;
+    border-radius: 100px;
+}
+
+.loop-cat{
+    height: 50px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.cardJSON-img{
+    height: 400px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+.img-border-radius{
+    border-radius: 10px;
+}
+
+.JCard{
+    background-color: var(--b);
+    color: var(--g);
+}
+
+.accordion-style{
+    background-color: var(--b);
+    color: var(--g);
+}
+
+.radio-imput{
+    background-color: var(--g);
+}
+.form-check-input:checked {
+    background-color: var(--r);
+    border-color: var(--g);
+    box-shadow: var(--b);
+}
+
+.form-check-input {
+    --bs-form-check-bg: var(--g);
+    border: var(--bs-border-width) solid var(--g);
+}
+
+.accordion-button{
+    background-color: var(--b);
+    color: var(--g);
+    border: 5px solid var(--g);
+}
+
+.accordion-button:focus {
+    border-color: var(--g);
+}
+
+.accordion-button:not(.collapsed) {
+    color: var(--b);
+    background-color: var(--g);
+    border-color: var(--b);
+}
+
+.accordion{
+    --bs-accordion-bg: var(--g);
+    --bs-accordion-btn-bg: var(--g);
+    --bs-accordion-active-color: var(--g);
+    --bs-accordion-active-bg: var(--g);
+}
+
+.form-range{
+    transition: 1s;
+}
+
+input[type='range']::-webkit-slider-thumb{
+    -webkit-appearance: none !important;
+    border: 2px solid var(--b);
+    background-color: var(--g);
+    box-shadow: none !important;
+    transform: scale(150%);
+}
+
+input[type='range']::-webkit-slider-thumb:active{
+    -webkit-appearance: none !important;
+    transform: scale(200%);
+    border: 2px solid var(--g);
+    background-color: var(--b);
+    box-shadow: none;
+}
+
+input[type='range']::-webkit-slider-runnable-track{
+    background-color: var(--g);
+}
+
+.footer-style{
+    color: var(--g);
+    background-color: var(--b);
+    border: 7px solid var(--g);
+    border-radius: 28px;
+}
+
+.footer-link{
+    color: var(--g) !important;
+    text-decoration: none;
+}
+
+.border-bottom{
+    border-bottom: 1px solid var(--g) !important;
+}
+
+@media screen and (max-width:992px) {
+    .loop{
+        overflow: hidden;
+    }
+}
